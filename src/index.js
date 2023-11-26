@@ -45,3 +45,5 @@ const porcentajePropina = document.getElementById("porcentajePropina");
 rangoPropina.addEventListener("input", () => {
 	porcentajePropina.textContent = rangoPropina.value;
 });
+
+// est practico hicimos con los compañeos de la facultad y lo estoy subiendo ami repositorio 
